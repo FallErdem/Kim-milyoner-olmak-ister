@@ -22,4 +22,4 @@ A)Oksijen   B)Hidrojen    -C)Azot   D)Helyum
 A)Kodu çalıştırmak için kullanılır.	B)Kodu devam ettirmek için kullanılır.	 -C)Döngüden çıkmak için kullanılır.	 D)Döngüyü en başa döndürür.
 A)1011 1100	-B)0001 1000	   C)0100 0011	   D)1001 1100
 A)0110 0100   B)0011 0110   -C)1001 0010   D)1001 0011
-A)Yazolan kod dizisindeki hataları tarar.    B)Kodun yanlış kısmını tarayarak otomatik bir şekilde düzeltir.    -C)Kullanıcının klavyeden girdiği değeri okur.    D)Kod dizisinde arama bölmesini ortaya çıkarır.
+A)Yazılan kod dizisindeki hataları tarar.    B)Kodun yanlış kısmını tarayarak otomatik bir şekilde düzeltir.    -C)Kullanıcının klavyeden girdiği değeri okur.    D)Kod dizisinde arama bölmesini ortaya çıkarır.
